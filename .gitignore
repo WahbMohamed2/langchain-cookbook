@@ -1,0 +1,29 @@
+# Environment
+.env
+venv/
+.venv/
+
+# ChromaDB local database
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+
+# Root scratch files
+main.py
+test_apiKey.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
