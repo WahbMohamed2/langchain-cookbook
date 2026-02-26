@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="400"/>
+  <img src="./assets/langchainIcon.png" alt="LangChain" width="400"/>
 </p>
 
 # LangChain Examples
